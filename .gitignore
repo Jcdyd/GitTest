@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/vs3Test/vs3Test/App.config
+/vs3Test/vs3Test/Program.cs
+/vs3Test/vs3Test.sln
+/ConsoleApp3/ConsoleApp3/Properties/AssemblyInfo.cs
+/ConsoleApp3/ConsoleApp3/App.config
