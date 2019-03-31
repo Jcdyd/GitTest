@@ -9,6 +9,7 @@ using System.Threading;
 public class Client01 : MonoBehaviour {
 
     //定义ip、端口 字段...
+	//远程段修改代码
     private string ip = "192.168.0.103";
     private int port = 33333;
     private Socket socket;
